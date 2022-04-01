@@ -1,3 +1,4 @@
+package practical02;
 import java.util.*;
 
 public class p1_Task01_keywodsInJava {

@@ -1,3 +1,4 @@
+package practical03;
 import java.util.*;
 public class p3_task02_operatorsInjava {
     public static void main(String[] args) {

@@ -1,3 +1,4 @@
+package practical02;
 import java.util.*;
 
 public class p2_Task02_constatntsInJava {

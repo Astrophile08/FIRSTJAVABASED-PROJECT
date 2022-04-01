@@ -1,3 +1,4 @@
+package practical03;
 import java.util.*;
 
 public class p3_task01_variablesAndDataTypesInjava {
